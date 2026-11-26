@@ -126,6 +126,3 @@ To add custom tools to the MCP server:
 2. Add your custom tool using the `@self.tool()` decorator
 3. Restart the server
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
